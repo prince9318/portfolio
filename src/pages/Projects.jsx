@@ -79,7 +79,8 @@ const Projects = () => {
               isBlog={false}
               title="PortFolio"
               description=""
-              ghLink="https://github.com/prince9318/my-portfolio"
+              ghLink="https://github.com/prince9318/portfolio"
+              demoLink = "https://prince9318.github.io/project"
             />
           </Col>
         </Row>
