@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a08b4fb5.css",
+    "main.js": "/portfolio/static/js/main.f1ddf2f5.js",
+    "static/media/krypto.jpg": "/portfolio/static/media/krypto.de64707a73fb0ae93ffc.jpg",
+    "static/media/pg.jpg": "/portfolio/static/media/pg.46226b948f25b6c5554e.jpg",
+    "static/media/Picture1.png": "/portfolio/static/media/Picture1.1376592d09c3dc167b0f.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.9632b187295dd616bc2a.png",
+    "static/media/ecom.jpg": "/portfolio/static/media/ecom.ccdde37bd0b85cb8b721.jpg",
+    "static/media/Prince Vishwakarma - Resume.pdf": "/portfolio/static/media/Prince Vishwakarma - Resume.2c90e3332af082eb128c.pdf",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/lift.png": "/portfolio/static/media/lift.2b79cbde3bdc52934693.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/kickstart.png": "/portfolio/static/media/kickstart.0e2a6e23f85028932645.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.84272464099b038fe50d.svg",
+    "index.html": "/portfolio/index.html",
+    "main.a08b4fb5.css.map": "/portfolio/static/css/main.a08b4fb5.css.map",
+    "main.f1ddf2f5.js.map": "/portfolio/static/js/main.f1ddf2f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a08b4fb5.css",
+    "static/js/main.f1ddf2f5.js"
+  ]
+}
